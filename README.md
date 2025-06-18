@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/SANDEEPREDLA29/SANDEEPREDLA29/main/assets/banner.png" alt="Banner" width="100%" />
-  <h1>Hi, I'm Sandeep 👋</h1>
+  <h1>Hi, I'm Sandy 👋 </h1>
   <p>💻 Aspiring Software Developer | Passionate about building full-stack web applications</p>
 
   <a href="mailto:redlasandeep784@gmail.com">
