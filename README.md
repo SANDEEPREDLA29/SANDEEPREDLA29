@@ -3,10 +3,6 @@
   <h1>Hi, I'm Sandy 👋 </h1>
   <p>💻 Aspiring Software Developer | Passionate about building full-stack web applications</p>
 
-<!-- 👇 INSERT THIS GIF HERE -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
-
   <a href="mailto:redlasandeep784@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -55,12 +51,7 @@
 </div>
 
 ---
-### 🐍 GitHub Contribution Snake Game
 
-![snake gif](https://github.com/SANDEEPREDLA29/SANDEEPREDLA29/blob/output/github-contribution-grid-snake.svg)
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" alt="dev energy"/>
-</p>
 
 
 ## 🧠 Currently Learning
@@ -71,11 +62,12 @@
 
 ---
 
-### 🌟 Fun Fact
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="250" />
+  <img src="https://github.com/SANDEEPREDLA29/SANDEEPREDLA29/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 
 - 🔥 I break things to build better things  
 - 📚 Constantly learning — because why not?  
