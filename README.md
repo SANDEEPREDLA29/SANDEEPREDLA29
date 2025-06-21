@@ -8,12 +8,6 @@
   </a>
   <a href="https://www.linkedin.com/in/29redlasandeep17b290228/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-    <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="tools gif"/>
-</p>
-
-<h3 align="center">🚀 My Tech Toolbox</h3>
-
   </a>
 </div>
 
@@ -40,7 +34,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-
 ---
 
 ## 📈 GitHub Stats
@@ -52,7 +45,13 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake
 
+<p align="center">
+  <img src="https://github.com/SANDEEPREDLA29/SANDEEPREDLA29/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
 
 ## 🧠 Currently Learning
 
@@ -62,15 +61,6 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## ✍️ Quote I Live By
 
-<p align="center">
-  <img src="https://github.com/SANDEEPREDLA29/SANDEEPREDLA29/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-
-- 🔥 I break things to build better things  
-- 📚 Constantly learning — because why not?  
-- 🌈 Believer in design + dev synergy
-
-
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
