@@ -3,11 +3,21 @@
   <h1>Hi, I'm Sandy 👋 </h1>
   <p>💻 Aspiring Software Developer | Passionate about building full-stack web applications</p>
 
+<!-- 👇 INSERT THIS GIF HERE -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+
   <a href="mailto:redlasandeep784@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/29redlasandeep17b290228/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" alt="tools gif"/>
+</p>
+
+<h3 align="center">🚀 My Tech Toolbox</h3>
+
   </a>
 </div>
 
@@ -45,6 +55,13 @@
 </div>
 
 ---
+### 🐍 GitHub Contribution Snake Game
+
+![snake gif](https://github.com/SANDEEPREDLA29/SANDEEPREDLA29/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" alt="dev energy"/>
+</p>
+
 
 ## 🧠 Currently Learning
 
@@ -54,7 +71,14 @@
 
 ---
 
-## ✍️ Quote I Live By
+### 🌟 Fun Fact
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+<p align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="250" />
+</p>
+
+- 🔥 I break things to build better things  
+- 📚 Constantly learning — because why not?  
+- 🌈 Believer in design + dev synergy
+
 
